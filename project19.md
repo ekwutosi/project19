@@ -1,7 +1,7 @@
 # Terraform Cloud
 ## Migrate Terraform files to Terraform Cloud
 -  Create a Terraform Cloud account from this link https://app.terraform.io/signup/account
-- Create an Organization. Click "Start from Scratch", enter a name and click create.![](imgs/org.png)
+- Create an Organization. Click "Start from Scratch", enter a name and click create.
 - Create a workspace.
   - Create a new GitHub repo that will contain your tf configuration
   - Push the files from the previous projects to the repo
